@@ -18,4 +18,9 @@ Ejmplo: Queremos 4 <li>
                   <li><li>
                   <li><li>
                   <li><li>
-    
+
+Las clases son identificadores que les ponemos a etiq de HTML para darle estilo en el CSS
+    -Genericas (Usado para cuando repetimos los estilos)
+Ids 
+    -Unicos(Usamos cuando solo un elemento requiere ese estilo y no se repetira
+    o habran varios elementos con el mismo estilo)
